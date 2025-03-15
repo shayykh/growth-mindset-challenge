@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import os
-import openpyxl as pxl
 
 st.set_page_config(page_title="Growth Mindset Challenge", page_icon="🎯", layout="centered")
 st.title("Growth Mindset Challenge: Web App with Streamlit")
